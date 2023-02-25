@@ -14,6 +14,7 @@
 # Work
 * 인터넷 연결 여부
     * @react-native-community/netinfo를 사용, 사용 위치 : App.js
+
 * Rooting or Jailbreaking 체크
     * 운영 체제 상에서 최상위 권한을 얻음으로 해당 기기의 생산자 또는 판매자 측에서 걸어 놓은 제약을 해제하는 행위를 가리키는 말이다.
     * jail-monkey를 사용, 사용 위치 : src/main/components/Lock/Load.js
